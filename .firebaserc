@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "myangular-1cc3f"
+  },
+  "targets": {
+    "myangular-1cc3f": {
+      "hosting": {
+        "angular-tour-of-heroes": [
+          "myangular-1cc3f"
+        ]
+      }
+    }
+  }
+}
